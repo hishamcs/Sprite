@@ -1,0 +1,258 @@
+@import url('https://fonts.googleapis.com/css2?family=Fira+Sans+Extra+Condensed:ital,wght@1,900&display=swap');
+.header-container{
+    background: #009b4e;
+}
+.header{
+    background: #009b4e;
+    display: flex;
+    justify-content: space-between;
+    font-family: Fira Sans Extra Condensed, sans-serif;
+    height: 90px;
+    margin-left: 31px;
+    margin-right: 47px;
+    align-items: center;
+    
+}
+.header-menuList-left li{
+    list-style-type: none;
+    color: #ffffff;
+    font-size: 16px;
+    margin-left: 40px;
+    letter-spacing: 1px;
+}
+.header-imgSymbol img{
+    width: 71.5px;
+    height: 50px;
+}
+.c{
+    background: white;
+    border-radius: 50px;
+}
+.header-menuList-right img{
+    width:21px;
+    height: 23px;
+}
+
+.header-menuList-right li{
+    list-style-type: none;
+    margin-right: 26px;
+}
+.header ul{
+    display: flex;
+}
+body{
+    margin: 0;
+    padding: 0;
+}
+.header-imgSymbol{
+    margin-left: 12px;
+}
+
+.header-menuList-left{
+    margin-right: 37rem;
+}
+.d{
+    padding-left: 17px;
+}
+
+/*Second Image*/
+.secondImg {
+    width: 100%;
+    height: 555px;
+    background-image: url(Homepage\ Hero_Desktop.png);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.Learnmore{
+    background-color: rgb(228,27,79);
+    border: 2px solid;
+    border-color: white;
+    color: #ffffff;
+    padding: 10px 40px;
+    font-size: 16px;
+    font-weight: 800;
+}
+.button-learnmore{
+    padding-top: 25rem;
+    padding-left: 25rem;
+}
+.signup-container{
+    background: #E8194F;
+    height: 75px;
+}
+.signup-button button{
+    background-color: black;
+    color: white;
+    border: 2px solid white;
+    font-size: 16px;
+    padding: 10px 40px;
+    font-weight: 500;
+    width:253.19px;
+    height:48px;
+    font-weight: 800;
+    font-style: italic
+}
+.signup{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    padding-top: 15px;
+}
+.signup-paragraph p{
+    color: rgb(255,255,255);
+    font-size: 16px;
+}
+
+
+
+/**/
+.dripSip-button img{
+    width:42px ;
+    height: 32px;
+}
+.dripSip-textblock h2{
+    font-style: italic;
+    font-weight: bolder;
+    font-size: 31px;
+    font-family: Fira Sans Extra Condensed, sans-serif;
+    letter-spacing: 1px;
+}
+.dripSip{
+    text-align: center;
+    margin-top: 43px;
+}
+.dripSip-textblock{
+    width: 790px;
+    height: 121px;
+    text-align: left;
+    margin-left: 366px;
+}
+.dripSip-image iframe{
+
+    margin-top: 30px;
+}
+.dripSip-textblock p{
+    margin-top: -17px;
+}
+
+.dripSip-button button{
+    width: 42;
+    height: 32px;
+    background-color: #009b4e;
+    margin-left: 750px;
+   
+}
+
+.dripSip-button button svg{
+    width: 25px;
+    height: 15px;
+    margin-top: 1px;
+}
+
+.finalImage-left{
+    background-image: url(infinite-potential-zero-limits-desktop-2.png);
+    width: 759.6px;
+    height: 517.48px;
+    background-position: left;
+    background-size:contain;
+    background-repeat: no-repeat;
+    text-align: center;
+}
+.finalImage-right img{
+    width:759.6px;
+    height: 517.48px;
+}
+.finalImage{
+    display: flex;
+}
+.finalImage-left button{
+    width: 195px;
+    height: 45px;
+    margin-top: 393px;
+    background-color: rgb(48,148,89);
+    border: 2px solid;
+    border-color: rgb(48,148,89);
+    font-size: 19px;
+    padding: 10px 40px;
+    font-family: Fira Sans Extra Condensed, sans-serif;
+    color: white;
+}
+
+
+/*bottom*/
+
+.bottom-container{
+    background:#009b4e;
+    display: flex;
+    justify-content: center;
+    font-family: Fira Sans Extra Condensed, sans-serif;
+    letter-spacing: 1px;
+    margin-top: -4px;
+    padding-bottom: 47px;
+}
+.bottom li{
+    list-style: none;
+    color: white;
+    margin-left: 13px;
+}
+.botto-symbols img{
+    width:21px;
+    height: 23px;
+}
+.three-items{
+    display: flex;
+    max-width: 900px;
+    margin-right: 174px;
+}
+.bottom-productList-symbols{
+    display: flex;
+    margin-left: -82px;
+}
+.botto-symbols ul{
+    display: flex;
+}
+.bottom-symbol{
+    margin-top: 96px;
+    margin-right: 130px;
+}
+.bottom-productList{
+    margin-left: 236px;
+    margin-top: 63px;
+    width: 317px;
+}
+.botto-symbols{
+    margin-left: 68px;
+    margin-top: 36px;
+}
+.bottom-symbols-paragraph{
+    margin-top: 65px;
+}
+.productHead{
+    margin-left: 33px;
+}
+.list li{
+    margin-top: 17px;
+}
+.bottom p{
+    color: white;
+
+}
+.bottom-lists ul{
+    display: flex;
+}
+.bottom-rights{
+    text-align: center;
+}
+.bottom-lists li{
+    border-right: 1px solid white;
+    padding-right: 13px;
+}
+.bottom-lists{
+    margin-left: 89px;
+    margin-top: 23px;
+
+}
+.bottom-rights-lists{
+    margin-top: 95px;
+}
